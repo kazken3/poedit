@@ -650,8 +650,8 @@ msgid ""
 "Entries in this catalog have different plural forms count from what "
 "catalog's Plural-Forms header says"
 msgstr ""
-"U položek katalogu je použit jiný počet forem plurálu, než jaký je "
-"nastaven v hlavičce Plural-Forms"
+"U položek katalogu je použit jiný počet forem plurálu, než jaký je nastaven "
+"v hlavičce Plural-Forms"
 
 #: ../src/edframe.cpp:1376
 msgid ""
